@@ -100,7 +100,7 @@
   <project path="external/grub" name="platform/external/grub" />
   <project path="external/gtest" name="platform/external/gtest" />
   <project path="external/guava" name="platform/external/guava" />
-  <project path="external/HALO" name="HALO" remote="github" revision="jellybean" />
+  <project path="external/HALO" name="ParanoidAndroid/HALO" remote="github" revision="jellybean" />
   <project path="external/hamcrest" name="platform/external/hamcrest" />
   <project path="external/harfbuzz" name="platform/external/harfbuzz" />
   <project path="external/hyphenation" name="platform/external/hyphenation" />
